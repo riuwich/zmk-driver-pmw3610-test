@@ -1,1 +1,1 @@
-add_subdirectory_idef(CONFIG_INPUT input)
+add_subdirectory_ifdef(CONFIG_INPUT input)
