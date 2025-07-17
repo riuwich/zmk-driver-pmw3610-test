@@ -1,0 +1,1 @@
+add_subdirectory_idef(CONFIG_INPUT input)

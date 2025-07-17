@@ -1,0 +1,6 @@
+name: zmk-driver-pmw3610-test
+build:
+  cmake: .
+  kconfig: Kconfig
+  settings:
+    dts_root: .
